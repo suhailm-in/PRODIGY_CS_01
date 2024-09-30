@@ -48,8 +48,8 @@ Output: `Hello World!`
 1. Ensure you have Python 3.x installed.
 2. Download or Clone the repository:
 ```bash
-git clone https://github.com/yourusername/caesar-cipher.git
-cd caesar-cipher
+git clone https://github.com/suhailm-in/PRODIGY_CS_01.git
+cd PRODIGY_CS_01
 ```
 3. Run the script using Python:
 ```bash

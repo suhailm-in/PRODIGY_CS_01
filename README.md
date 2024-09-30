@@ -34,7 +34,7 @@ Shift: `3`
 
 Output: `Hello World!`
 
-# Resources
+## Resources
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -45,22 +45,19 @@ Output: `Hello World!`
 
 ## Installation
 
-1. Ensure you have Python 3.x installed.
-2. Download or Clone the repository:
+### Clone the repository
 ```bash
 git clone https://github.com/suhailm-in/PRODIGY_CS_01.git
-cd PRODIGY_CS_01
 ```
-3. Run the script using Python:
 ```bash
-python3 main.py
+cd PRODIGY_CS_01
 ```
 
 ## Usage
 
 1. Run the Python script in your terminal or command prompt:
    ```bash
-   python3 main.py
+   python3 caesar_cipher.py
    ``` 
 2. When prompted, choose whether to encrypt or decrypt a message:
 - Enter 'e' for encryption.

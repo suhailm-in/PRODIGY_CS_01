@@ -34,35 +34,43 @@ Shift: `3`
 
 Output: `Hello World!`
 
-## Usage
-
-1. Clone the repository or download the script.
-2. Run the Python script in your terminal or command prompt:
-
-   ```bash
-   python caesar_cipher.py
-   ``` 
-3. When prompted, choose whether to encrypt or decrypt a message:
-- Enter 'e' for encryption.
-- Enter 'd' for decryption.
-
-4. Input your message and specify the shift value when asked.
+# Resources
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
 
 ## Requirements
+
 - Python 3.x
 
 ## Installation
 
 1. Ensure you have Python 3.x installed.
-2. Download or clone the script:
+2. Download or Clone the repository:
 ```bash
 git clone https://github.com/yourusername/caesar-cipher.git
 cd caesar-cipher
 ```
 3. Run the script using Python:
 ```bash
-python caesar_cipher.py
+python3 main.py
 ```
+
+## Usage
+
+1. Run the Python script in your terminal or command prompt:
+   ```bash
+   python3 main.py
+   ``` 
+2. When prompted, choose whether to encrypt or decrypt a message:
+- Enter 'e' for encryption.
+- Enter 'd' for decryption.
+
+3. Input your message and specify the shift value when asked.
+
+
+
+
 ## Developed by
 ### Suhail M 
 Ethical Hacker, Penetration Tester, and AI Researcher in Cybersecurity
